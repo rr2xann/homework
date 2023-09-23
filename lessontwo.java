@@ -8,13 +8,13 @@ public class lessontwo {
         int n =47;
         int g = n/10;
         int h = n%10;
-        System.out.println(a = g +h);
+        System.out.println(g +h);
 
         int v = 756;
         int m = v%10;
         int i = (v/10)%10;
         int l = v/100;
-        System.out.println(v = m + i + l);
+        System.out.println(m + i + l);
 
 
         int q = 87;  int w = 4;
