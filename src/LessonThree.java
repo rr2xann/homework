@@ -36,5 +36,9 @@ public class LessonThree {
             System.out.print (r+" ");
             r = r + 7;
         }
+
+
+
+        //Пытаюсь починить идею
     }
 }
