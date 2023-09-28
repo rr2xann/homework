@@ -33,12 +33,8 @@ public class LessonThree {
 
         int r = 7;
         while (r <= 98) {
-            System.out.print (r+" ");
+            System.out.print(r + " ");
             r = r + 7;
         }
-
-
-
-        //Пытаюсь починить идею
     }
 }
